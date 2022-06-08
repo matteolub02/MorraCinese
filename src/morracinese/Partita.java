@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
 
-import it.unibs.fp.mylib.InputDati;
 
 /**
  * @author Matteo Lublanis

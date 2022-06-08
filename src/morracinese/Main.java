@@ -2,8 +2,6 @@ package morracinese;
 
 import java.io.FileNotFoundException;
 
-import it.unibs.fp.mylib.InputDati;
-
 /**
  * @author Matteo Lublanis
  * <p>Classe Main: scegli modalità di gioco fra 3 disponibili.</p>

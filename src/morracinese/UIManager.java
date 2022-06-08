@@ -2,7 +2,6 @@ package morracinese;
 
 import java.io.FileNotFoundException;
 
-import it.unibs.fp.mylib.InputDati;
 
 public class UIManager {	
 	
