@@ -1,0 +1,3 @@
+Vittorie computer: 2
+Vittorie giocatore: 2
+Pareggi: 1
